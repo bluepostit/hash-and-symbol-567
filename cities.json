@@ -1,0 +1,12 @@
+{
+  "cities": [
+    {
+      "name": "Paris",
+      "monument": "Eiffel Tower"
+    },
+    {
+      "name": "Brussels",
+      "monument": "Atomium"
+    }
+  ]
+}
